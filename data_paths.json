@@ -1,0 +1,8 @@
+{
+	"imdb_path":"path/ILSVRC2015_small_imdbs/imdb_video_01.mat",
+	"imdb_name":"imdb_video_small",
+	"imdb_video_path":"path/ILSVRC2015/Data/VID/train/",
+	"imdb_score_map_path":"path/ILSVRC2015_score_map6/Data/VID/train/",
+	"imdbs_path":"path/ILSVRC2015_small_imdbs/",
+	"OTB_path": "path/OTB/"
+}
