@@ -14,16 +14,51 @@ This software was developed under Ubuntu 14.04 with python 2.7.
 If you use this software for academic research, please consider to cite the following papers:
 
 [1] Xingping Dong, Jianbing Shen, Wenguan Wang, Ling Shao, Haibin Ling, Fatih Porikli.
-Dynamical Hyperparameter Optimization via Deep Reinforcement Learning in Tracking. IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019. 
+Dynamical Hyperparameter Optimization via Deep Reinforcement Learning in Tracking. IEEE Trans. on Pattern Analysis and Machine Intelligence (TPAMI), 2019, in press, DOI: 10.1109/TPAMI.2019.2956703. 
 
 [2] Xingping Dong, Jianbing Shen, Wenguan Wang, Yu Liu, Ling Shao, Fatih Porikli. 
-Hyperparameter optimization for tracking with continuous deep q-learning. In IEEE CVPR, 2018.
+Hyperparameter optimization for tracking with continuous deep q-learning. In IEEE CVPR, pp. 518-527. 2018.
 
 [3] Xingping Dong, Jianbing Shen, Dongming Wu, Kan Guo, Xiaogang Jin, Fatih Porikli. 
-Quadruplet network with one-shot learning for fast visual object tracking. IEEE Trans. on Image Processing (TIP), 2019. 
+Quadruplet network with one-shot learning for fast visual object tracking. IEEE Trans. on Image Processing (TIP), 2019 Feb 11;28(7):3516-27.
 
 [4] Xingping Dong, Jianbing Shen. 
-Triplet loss in siamese network for object tracking. In ECCV, 2018.
+Triplet loss in siamese network for object tracking. In ECCV, pp. 459-474. 2018.
+
+**BIB**
+```bibtex
+@article{dong2019dynamical,
+  title={Dynamical Hyperparameter Optimization via Deep Reinforcement Learning in Tracking},
+  author={Dong, Xingping and Shen, Jianbing and Wang, Wenguan and Shao, Ling and Ling, Haibin and Porikli, Fatih},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{dong2018hyperparameter,
+  title={Hyperparameter optimization for tracking with continuous deep q-learning},
+  author={Dong, Xingping and Shen, Jianbing and Wang, Wenguan and Liu, Yu and Shao, Ling and Porikli, Fatih},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={518--527},
+  year={2018}
+}
+@article{dong2019quadruplet,
+  title={Quadruplet network with one-shot learning for fast visual object tracking},
+  author={Dong, Xingping and Shen, Jianbing and Wu, Dongming and Guo, Kan and Jin, Xiaogang and Porikli, Fatih},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={7},
+  pages={3516--3527},
+  year={2019},
+  publisher={IEEE}
+}
+@inproceedings{dong2018triplet,
+  title={Triplet loss in siamese network for object tracking},
+  author={Dong, Xingping and Shen, Jianbing},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={459--474},
+  year={2018}
+}
+```
 
 [**Prerequisites**]
 
