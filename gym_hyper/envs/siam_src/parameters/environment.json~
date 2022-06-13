@@ -1,0 +1,5 @@
+{
+	"root_dataset": "/media/ethan/Data/dxp/siamfc-tf-master/data",
+	"root_pretrained": "gym_hyper/envs/siam_src/pretrained",
+	"root_parameters": "gym_hyper/envs/siam_src/parameters"
+}

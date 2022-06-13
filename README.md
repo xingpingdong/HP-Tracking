@@ -94,10 +94,11 @@ python ./setup.py install (install the env for tracker)
 	"imdb_video_path":"/path/to//ILSVRC2015/Data/VID/train/",
 	"imdb_score_map_path":"/path/to/ILSVRC2015_score_map/Data/VID/train/", (saving the score maps)
 	"imdbs_path":"/path/to/ILSVRC2015_small_imdbs/" 
-  3. Run the script for training:
+  3. Edit the file './gym_hyper/envs/siam_src/parameters/environment.json' to setup the paths in your machine:
+  4. Run the script for training:
 	cd /path/to/code_folder/
 	python ./run_training.py
-  4. After training, you can find the trained mu model in './models/*mu_model.h5'. Then this model can be used for tracking in next step.
+  5. After training, you can find the trained mu model in './models/*mu_model.h5'. Then this model can be used for tracking in next step.
 
 [**Tracking**]
 
